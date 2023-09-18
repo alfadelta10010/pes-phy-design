@@ -1,4 +1,8 @@
 # Physical Design
+
+:warning: Note: After Day 2, I switched to the VM Image provided by VSD
+
+
 ## Day 1
 ### Topic 1: Design Preparation Step
 - Running `flow.tcl` and adding package and design
