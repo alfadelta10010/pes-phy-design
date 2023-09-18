@@ -36,30 +36,30 @@ Flop ratio = 8.94%
 ## Day 2
 ### Topic 1: Steps to run floorplan using OpenLANE
 - Generating floorplan
-![run floorplan]()
+![run floorplan](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/run_floorplan.png)
 
 ### Topic 2: Review floorplan files and steps to view floorplan
 - Reviewing in magic
 `magic -T /usr/local/tools/OpenLane/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &`
 
-![magic]()
+![magic](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/magic.png)
 
 ### Topic 3: Review floorplan layout in Magic
 - Zooming in
-![zoom in]()
+![zoom in](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/zoom_in.png)
 
-![zoomed in]()
+![zoomed in](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/zoomed_in.png)
 
-![very zoomed in]()
+![very zoomed in](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/very_zoomed_in.png)
 
-![what]()
+![what](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/what.png)
 
 ### Topic 4: Congestion aware placement using RePlAce
 - `picorv32a.placement.def.png`
-![placement]()
+![placement](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/picorv32a.placement.def.png)
 
 - opening in `magic`
-![magic placement]()
+![magic placement](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/magic_placement.png)
 
 - Zooming in
-![magic placement]()
+![magic placement zoom](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day2/magic_placement_zoom.png)
