@@ -427,3 +427,4 @@ report clock_skew -setup
 
 ## Day 5
 ### Topic 1: Build Power Distribution Network
+![1](https://github.com/alfadelta10010/pes-phy-design/blob/master/assets/day5/1.png)
